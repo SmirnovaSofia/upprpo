@@ -1,3 +1,0 @@
-C:/Users/Professional/Desktop/МОП/Sugar_daddy/shit/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-C:/Users/Professional/Desktop/МОП/Sugar_daddy/shit/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
-C:/Users/Professional/Desktop/МОП/Sugar_daddy/shit/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir
